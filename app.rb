@@ -13,8 +13,8 @@ class App < Sinatra::Base
   end
   
 
-    @num = params[:number].to_i ** 2
-    @num.to_s
-  end
+    # @num = params[:number].to_i ** 2
+    # @num.to_s
+
 
 end
